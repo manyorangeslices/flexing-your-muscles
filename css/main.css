@@ -8,7 +8,7 @@ html {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
@@ -25,7 +25,6 @@ img {
   align-items: center;
   background-color: #8bc9d9;
   border-top: 3px solid #005e76;
-  padding: 1.5rem 0;
   color: #005e76;
 }
 
@@ -55,7 +54,7 @@ img {
   display: flex;
 }
 
-.social >li {
+.social > li {
   width: 3em;
 }
 
